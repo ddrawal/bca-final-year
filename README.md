@@ -11,7 +11,7 @@ __This is also bold__
 
 __This is a **combination**__
 
-
+## Table section in Markdown Language
 
 | S. no  | Topic of Projects |
 | :-------------: | :-------------: |      
