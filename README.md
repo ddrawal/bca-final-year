@@ -15,8 +15,8 @@ __This is a **combination**__
 
 | S. no  | Topic of Projects |
 | ------------- | ------------- |      
-| Content Cell  | Content Cell  |      
-| Content Cell  | Content Cell  |      
+| 1  | GIT Intro  |      
+|2  | django Intro  |      
 
 
 
