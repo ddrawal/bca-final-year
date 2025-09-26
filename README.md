@@ -14,7 +14,7 @@ __This is a **combination**__
 
 
 | S. no  | Topic of Projects |
-| ------------- | ------------- |      
+| :-------------: | :-------------: |      
 | 1  | GIT Intro  |      
 |2  | django Intro  |      
 
