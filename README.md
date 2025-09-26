@@ -13,6 +13,14 @@ __This is a **combination**__
 
 
 
+| S. no  | Topic of Projects | Remarks |
+| ------------- | ------------- |      |
+| Content Cell  | Content Cell  |      |
+| Content Cell  | Content Cell  |      |
+
+
+
+
 
 #  Git & GitHub Commands Guide
 
@@ -28,10 +36,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 
 
-| S. no  | Topic of Projects | Remarks |
-| ------------- | ------------- |      |
-| Content Cell  | Content Cell  |      |
-| Content Cell  | Content Cell  |      |
+
 
 
 
