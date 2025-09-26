@@ -13,10 +13,15 @@ __This is a **combination**__
 
 ## Table section in Markdown Language
 
-| S. no  | Topic of Projects |
-| :-------------: | :-------------: |      
-| 1  | GIT Intro  |      
-|2  | django Intro  |      
+| S. no | Topic of Projects     | Status     |
+|:-----:|:---------------------:|:----------:|
+| 1     | GIT Intro             | Completed  |
+| 2     | Django Intro          | In Progress|
+| 3     | REST API Basics       | Pending    |
+| 4     | Frontend with React   | Pending    |
+| 5     | Deployment with Docker| Not Started|
+| 6     | CI/CD Pipeline        | Not Started|
+| 7     | Testing with Pytest   | Completed  |
 
 
 
